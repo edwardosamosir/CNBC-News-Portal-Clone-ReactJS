@@ -1,0 +1,277 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "edwardosamosir",
+        "email": "edwardosamosir@gmail.com",
+        "password": "L154inb4b1$$",
+        "role": "Admin",
+        "phoneNumber": "081277824127",
+        "address": "Salihara Street, Jakarta"
+      },
+      {
+        "id": 2,
+        "username": "ryanreynolds",
+        "email": "ryanreynolds@mail.com",
+        "password": "ryan123",
+        "phoneNumber": "081277856876",
+        "address": "Pondok Indah, Jakarta",
+        "role": "Admin"
+      },
+      {
+        "id": 3,
+        "username": "jhonnydeep",
+        "email": "jhonnydeep@admin.com",
+        "password": "jhonnydeep",
+        "phoneNumber": "0998713312",
+        "address": "Lenteng Agung, South Jakarta",
+        "role": "Admin"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "Warren Buffett explains why he bought 5 Japanese trading houses: I was ‘confounded’ by the opportunity",
+        "slug": "Warren-Buffett-explains-why-he-bought-5-Japanese-trading-houses:-I-was-‘confounded’-by-the-opportunity",
+        "content": "The Berkshire Hathaway chairman and CEO revealed this week that he had raised his stakes in each of the five major Japanese firms to 7.4%, and added that he may consider further investments. Buffett’s trip to Japan is intended to show support for the companies. \n Earnings yield is defined as the profit per share divided by the share price and is a common measure used by value investors like Buffett. The higher the number, the more value investors are getting per share.\n “I just thought these were big companies. They were companies that I generally understood what they did. Somewhat similar to Berkshire in that they owned lots of different interests,” Buffett said. “And they were selling at what I thought was a ridiculous price, particularly the price compared to the interest rates prevailing at that time.” \n Buffett, 92, said Wednesday that Berkshire plans to hold the investments for 10 to 20 years. Berkshire previously said it could raise its stakes in each of the trading houses up to 9.9% — though not without the approval of the firms’ boards of directors.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107223791-16812957111681295704-28985200646-1080pnbcnews.jpg?v=1681296315&w=750&h=422&vtcrop=y",
+        "createdAt": "2023/04/12",
+        "updatedAt": "2023/04/12",
+        "categoryId": 1,
+        "authorId": 1
+      },
+      {
+        "id": 2,
+        "title": "These are the countries that will be ‘most hit’ if oil prices reach $100",
+        "slug": "These-are-the-countries-that-will-be-‘most-hit’-if-oil-prices-reach-$100",
+        "content": "The surprise output cut by OPEC and its allies sent oil prices rallying — and analysts say major oil importers like India, Japan and South Korea will feel the most pain if prices hit $100 per barrel, as some have predicted.\n On Sunday, OPEC+ announced a production cut of 1.16 million barrels per day, in a move that oil markets were not expecting.\n “It’s a tax on every oil importing economy,” said Pavel Molchanov, managing director of private investment bank Raymond James.\n “It’s not the U.S. that would feel the most pain from $100 oil, it would be the countries that have no domestic petroleum resources: Japan, India, Germany, France ... to name some of the big examples,” Molchanov said.\n The voluntary cuts by countries in the oil cartel are set to start in May and last till the end of 2023. Both Saudi Arabia and Russia will trim oil production by 500,000 barrels per day until the end of this year, while other OPEC members like Kuwait, Oman, Iraq, Algeria and Kazakhstan also reduce output. \n Brent crude futures were last trading 0.57% higher at $85.41 a barrel, while the U.S. West Texas Intermediate futures stood 0.5% at $81.11 per barrel.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/106919335-1627610650933-gettyimages-1212967813-UK_FAWLEY.jpeg?v=1680758001&w=740&h=416&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/04/6",
+        "updatedAt": "2023/04/6",
+        "categoryId": 2,
+        "authorId": 2
+      },
+      {
+        "id": 3,
+        "title": "Biden administration to propose tighter health privacy rules around abortion",
+        "slug": "Biden-administration-to-propose-tighter-health-privacy-rules-around-abortion",
+        "content": "The Biden administration on Wednesday will propose new health privacy protections to prevent protected health information from being used to investigate or sue people who facilitate abortions, senior administration officials said.\n The changes, proposed by the Department of Health and Human Services’ Office for Civil Rights, would create a “federal floor” for medical privacy, a senior administration official said on a call with reporters previewing the proposal. \n Vice President Kamala Harris will announce the new language, aimed at strengthening existing privacy rule protections under the Health Insurance Portability and Accountability Act of 1996, when she meets with a task force on access to reproductive health care Wednesday afternoon. \n The meeting follows the latest setback to abortion rights: A federal judge in Texas appointed by former President Donald Trump issued a ruling last week that would suspend the Food and Drug Administration’s longtime approval of the abortion drug mifepristone. The Biden administration filed a request in a federal appeals court Monday to block the ruling.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/106831006-1611773634281-gettyimages-1226892522-hhs_001_07132020.jpeg?v=1681305693&w=740&h=416&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/04/12",
+        "updatedAt": "2023/04/12",
+        "categoryId": 3,
+        "authorId": 3
+      },
+      {
+        "id": 4,
+        "title": "Alibaba to roll out its rival to ChatGPT across all its products",
+        "slug": "Alibaba-to-roll-out-its-rival-to-ChatGPT-across-all-its-products",
+        "content": "Alibaba Cloud, the cloud computing unit of Chinese tech giant Alibaba, announced Tuesday it will be rolling out its own ChatGPT-style product Tongyi Qianwen.\n Tongyi Qianwen, which possess Chinese and English language capabilities, will initially be deployed on DingTalk, Alibaba’s workplace communication software, and Tmall Genie, a provider of smart home appliances, the company said in a release.\n Hong Kong-listed shares of Alibaba gained traded more than 3% higher after the announcement but has since pared some gains. Shares of Baidu in Hong Kong were down 6%.\nAt the 2023 Alibaba Cloud Summit, the company said it will be rolling out the artificial intelligence-powered chatbot into all Alibaba products from enterprise communication to e-commerce in “the near future.” It did not reveal a timeline.\n “We are at a technological watershed moment driven by generative AI and cloud computing, and businesses across all sectors have started to embrace intelligence transformation to stay ahead of the game,” said Daniel Zhang, chairman and CEO of Alibaba Group and CEO of Alibaba Cloud Intelligence, in a statement.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107222914-1681174682202-gettyimages-1249840265-CHINA_ALIBABA.jpeg?v=1681338378&w=740&h=416&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/04/10",
+        "updatedAt": "2023/04/10",
+        "categoryId": 4,
+        "authorId": 1
+      },
+      {
+        "id": 5,
+        "title": "Health misinformation is lowering U.S. life expectancy, FDA Commissioner Robert Califf says",
+        "slug": "Health-misinformation-is-lowering-U.S.-life-expectancy,-FDA-Commissioner-Robert-Califf-says",
+        "content": "Life expectancy in the U.S. is between three and five years lower than the average in other high-income countries — and the gap comes in part from misinformation, Food and Drug Administration Commissioner Dr. Robert Califf said.\n “It’s looking worse, not better, over the last several years,” Califf told CNBC in an interview Thursday at the agency’s headquarters in Silver Spring, Maryland.\n It’s not just the Covid pandemic contributing to the decline, he said, pointing out the gap with peer nations is widening. Califf said a new factor has joined the list of known causes of life expectancy disparities like race, ethnicity, income and education: living in a rural area, where he noted that people are exposed to different information sources.\n “Why aren’t we using medical products as effectively and efficiently as our peer countries? A lot of it has to do with choices that people make because of the things that influenced their thinking,” Califf said.\n The commissioner is just more than a year into his second turn at the top of the agency, one of only two top leaders of the FDA to return to the job for a separate second term. Since he left in January 2017, at the end of the Obama administration, the pandemic and rising political tensions have made combating misinformation even more complicated — and led Califf to make it one of his top priorities at the agency.\n “You think about the impact of a single person reaching a billion people on the internet all over the world, we just weren’t prepared for that,” Califf said. “We don’t have societal rules that are adjudicating it quite right, and I think it’s impacting our health in very detrimental ways.”",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107222843-2ED4-REQ-041023-TirrellCaliffFDA.jpg?v=1681212601&w=750&h=422&vtcrop=y",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11",
+        "categoryId": 5,
+        "authorId": 2
+      },
+      {
+        "id": 6,
+        "title": "Global brands look to boost media investment in women’s sports through a new partnership, The Women’s Sports Club",
+        "slug": "Global-brands-look-to-boost-media-investment-in-women’s-sports-through-a-new-partnership,-The-Women’s-Sports-Club",
+        "content": "For four-time Olympian and gold medal-winning ice hockey star Angela Ruggiero, pushing for more media attention and sponsorship dollars for women’s sports comes naturally.\n During her playing days and her stint as the chairperson of the International Olympic Committee Athletes’ Commission, she got a front row seat to the disparities between men’s and women’s sports. Today, through her company, the Sports Innovation Lab, she’s dedicated to changing that.\n Ruggiero’s Sports Innovation Lab on Tuesday announced a partnership with banking giant Ally to create the Women’s Sports Club, a coalition of major brands and media that will work to tackle some of the challenges in buying women’s sports inventory and to elevating investment in women’s sports.\n More than 20 global brands that buy and sell sports media and sponsorships are coming together to drive media spending to women’s sports. They include names such as Morgan Stanley, Nike, Gatorade, Coca-Cola and Delta, in addition to leagues such as the WNBA and LPGA.\n The Women’s Sports Club will meet at significant media and sporting events throughout the year, beginning with the South by Southwest event next week in Austin, Texas.\n “Women’s sports have arrived, and everyone agrees it’s smart business to invest,” Ruggiero said. “But there are real barriers inhibiting brands from placing scaled media buys. The Women’s Sports Club is addressing this challenge head-on.”",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107204577-1678216921759-gettyimages-1247845774-dil23030635_nova_vs_conn.jpeg?v=1678222615&w=740&h=416&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/03/07",
+        "updatedAt": "2023/03/07",
+        "categoryId": 6,
+        "authorId": 3
+      },
+      {
+        "id": 7,
+        "title": "Job growth totals 236,000 in March, near expectations as hiring pace slows",
+        "slug": "Job-growth-totals-236,000-in-March,-near-expectations-as-hiring-pace-slows",
+        "content": "Nonfarm payrolls growth in March was about in line with expectations, but showed signs that the jobs picture is in the early stages of a slowdown.\n The Labor Department reported Friday that payrolls grew by 236,000 for the month, compared to the Dow Jones estimate for 238,000 and below the upwardly revised 326,000 in February.\n The unemployment rate ticked lower to 3.5%, against expectations that it would hold at 3.6%, with the decrease coming as labor force participation increased to its highest level since before the Covid pandemic.\n Though it was close to what economists had expected, the total was the lowest monthly gain since December 2020 and comes amid efforts from the Federal Reserve to slow labor demand in order to cool inflation.\n Along with the payroll gains came a 0.3% increase in average hourly earnings, pushing the 12-month increase to 4.2%, the lowest level since June 2021. The average work week edged lower to 34.4 hours.\n “Everything is moving in the right direction,” said Julia Pollak, chief economist for ZipRecruiter. “I have never seen a report align with expectations as much today’s over the last two years.”\n Though the stock market is closed for Good Friday, futures rose following the report. Treasury yields also moved higher.\n Leisure and hospitality led sectors with growth of 72,000 jobs, below the 95,000 pace of the past six months. Government (47,000), professional and business services (39,000) and health care (34,000) also posted solid increases. Retail saw a loss of 15,000 positions.\n While the February report was revised up from its initially reported 311,000, January’s number moved lower to 472,000, a reduction of 32,000 from the last estimate.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107222176-1680871148527-1680870962-28915274983-hd.jpg?v=1680871251&w=750&h=422&vtcrop=y",
+        "createdAt": "2023/04/7",
+        "updatedAt": "2023/04/7",
+        "categoryId": 7,
+        "authorId": 1
+      },
+      {
+        "id": 8,
+        "title": "DOJ reportedly accelerates Apple antitrust investigation",
+        "slug": "DOJ-reportedly-accelerates-Apple-antitrust-investigation",
+        "content": "The Department of Justice has accelerated its antitrust investigation into Apple, The Wall Street Journal reported Wednesday. The company’s policies for third-party apps on its devices and whether it unfairly favors its own products on its mobile operating system are two areas of focus, according to the Journal.\n Apple shares were slightly positive as of Wednesday afternoon.\n The investigation, which began in 2019, has gained more litigators assigned to it and new document requests and consultations with companies related to the matter in recent months, according to the report. Politico reported in August that the DOJ was in the “early stages” of drafting a potential complaint against the company.\n It’s still unclear what role DOJ antitrust chief Jonathan Kanter will play in the investigation or any potential enforcement action. Kanter was initially not involved in the Apple matter because of his past representation of clients who have accused Apple of being anti-competitive, but sources told the Journal he would likely end up working on any action against the company. Kanter was cleared to work on Google matters after the department evaluated similar concerns over his work in private practice.\n The Justice Department has two ongoing antitrust lawsuits against Google, with the first expected to go to trial in September.\n Apple did not immediately respond to a request for comment. The DOJ declined to comment.",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107142137-1666903452834-GettyImages-1435933512r.jpg?v=1676486036&w=740&h=416&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/02/15",
+        "updatedAt": "2023/02/15",
+        "categoryId": 8,
+        "authorId": 2
+      },
+      {
+        "id": 9,
+        "title": "As climate change intensifies extreme weather, NOAA looks to startups to help improve its forecasts",
+        "slug": "As-climate-change-intensifies-extreme-weather,-NOAA-looks-to-startups-to-help-improve-its-forecasts",
+        "content": "The U.S. experienced 18 separate billion-dollar weather or climate disasters in 2022, costing a total of $165 billion in damages. The disasters were also deadly, causing at least 474 direct or indirect fatalities, according to the National Oceanic and Atmospheric Administration. \n In the U.S., NOAA is in charge of tracking weather and disseminating forecasts. It’s a complicated job that begins with collecting billions of observations per day on metrics such as temperature, wind speed and moisture. This information is then fed into powerful supercomputers that produce weather models that meteorologists use to come up with forecasts. But these models are not perfect.\n As climate change intensifies extreme weather events, accurate weather forecasting is becoming more important than ever. It’s why a new generation of private companies has cropped up to provide paying customers with hyperlocal, hyperspecific weather forecasting and data. The weather forecasting services industry in the U.S. was estimated to be worth about $17.4 billion in 2023, according to IBISWorld.\n CNBC spoke with two such companies, Boston-based Tomorrow.io and Alameda, California-based Saildrone, to learn how their technology can help improve weather forecasting for NOAA and others. ",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107216413-1680019544528-GettyImages-1337374219mov00_00_16_18Still001.jpg?v=1680092041&w=750&h=422&vtcrop=y",
+        "createdAt": "2023/01/29",
+        "updatedAt": "2023/01/29",
+        "categoryId": 9,
+        "authorId": 3
+      },
+      {
+        "id": 10,
+        "title": "Traveling to Asia for work? This city is its most expensive business destination",
+        "slug": "Traveling-to-Asia-for-work?-This-city-is-its-most-expensive-business-destination",
+        "content": "Hong Kong has been named the most expensive location in Asia for business travelers — for the second year in a row, according to a new report. \n ECA International’s latest Daily Rates research ranked countries based on costs for short trip expenses: four-star hotel rooms, meals, laundry, alcoholic and soft drinks, journeys by taxi and incidental costs. \n The research aims to help organizations anticipate the cost of business trips and short-term assignments, the data company said. \n A business trip now costs an average of $520 a day in Hong Kong, which is also ranked the 16th most expensive location for business travel in the world.\n That’s despite low demand from business travelers, as Hong Kong closely followed mainland China’s tough zero-Covid policy. It was only in late 2022 that it began to relax some of its restrictions. \n “Hotel costs continue to make up a majority of the overall cost of business travel, and in spite of lower occupancy levels in 2022, advertised room rates [in Hong Kong] did not fall significantly,” Lee Quane, ECA International’s regional director for Asia, told CNBC.\n “This may have been due to demand from local residents, while hotel properties may also have needed to maintain their room rates to cover additional costs associated with maintaining services during the Covid-19 pandemic.”\n The report is based on information collected in 2022, from 457 locations in over 190 countries, said ECA International\n Singapore moved up one spot in ECA International’s rankings, overtaking Tokyo to become the second-most expensive city in Asia to visit for business.\n It’s also ranked 19th globally. \n A business trip to Singapore now costs an average of $515 per day — $34 more expensive than the year before, said ECA International. \nIt attributed rising costs in Singapore to its “early removal of travel restrictions” compared with other locations in Asia, which sparked a rise in demand for travel to the city.\n “The resulting increase in demand contributed to rises in hotel accommodation costs, while costs associated with other daily essentials ... also increased at a faster rate than other locations in the region,” Quane said.\n Tokyo, which dropped from second- to third-most expensive city in Asia, also experienced a 5% rise in daily costs for business travelers in local currency terms.\n ″[However,] they were offset by the yen’s depreciation against the US dollar, leading to the decline of several cities across Japan in this year’s rankings,” Quane said. \n “With average daily costs of $424 per day [in Tokyo], business travel to the city is now almost 20% cheaper than first-placed Hong Kong.” ",
+        "imgUrl": "https://image.cnbcfm.com/api/v1/image/107130146-1665047199238-gettyimages-1013183154-dscf9424a.jpeg?v=1679444583&w=1340&h=500&ffmt=webp&vtcrop=y",
+        "createdAt": "2023/01/12",
+        "updatedAt": "2023/01/12",
+        "categoryId": 10,
+        "authorId": 1
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Investment",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 2,
+        "name": "Business",
+        "createdAt": "2023/04/6",
+        "updatedAt": "2023/04/6"
+      },
+      {
+        "id": 3,
+        "name": "Politics",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 4,
+        "name": "Technology",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 5,
+        "name": "Health and Science",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 6,
+        "name": "Sports",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 7,
+        "name": "Economy",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 8,
+        "name": "Investigations",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 9,
+        "name": "Environment and Climate",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      },
+      {
+        "id": 10,
+        "name": "Lifestyle and Travel",
+        "createdAt": "2023/04/11",
+        "updatedAt": "2023/04/11"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "postId": 1,
+        "name": "trading",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 2,
+        "postId": 2,
+        "name": "production cut",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 3,
+        "postId": 3,
+        "name": "administration",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 4,
+        "postId": 4,
+        "name": "cloud computing",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 5,
+        "postId": 5,
+        "name": "misinformation",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 6,
+        "postId": 6,
+        "name": "olympian",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 7,
+        "postId": 7,
+        "name": "job growth",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 8,
+        "postId": 8,
+        "name": "antitrust investigation",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 9,
+        "postId": 9,
+        "name": "climate change",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      },
+      {
+        "id": 10,
+        "postId": 10,
+        "name": "traveling",
+        "createdAt": "2023/01/16",
+        "updatedAt": "2023/01/16"
+      }
+    ]
+  }

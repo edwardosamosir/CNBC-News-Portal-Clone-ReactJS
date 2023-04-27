@@ -1,0 +1,1 @@
+export const baseUrl = "https://server.esamosir.site/customers/";
